@@ -1,0 +1,88 @@
+.bord{
+    height: 80px;
+
+   background-color: #3b5998 ;
+   color: white;
+   
+}
+
+.mix{
+
+    color: red;
+}
+.mix2{
+
+    color: rgb(22, 197, 228);
+}
+.mix3{
+
+    color: #0fa6ec;
+}
+.mix4{
+
+    color: grey;
+}
+
+.cc{
+    margin-top: 70px;
+    height: 10px;
+    width: 70px;
+}
+
+.mix5{
+    margin-top: 25px;
+}
+
+.mix6{
+
+    margin-top: 28px;
+}
+.mix7{
+
+    color: black;
+}
+.mix8{
+    color: rgb(199, 53, 167);
+}
+.mix9{
+
+    background-color: #409934;
+}
+.mix10{
+    color: white;
+}
+
+.mix12{
+
+    color: grey;
+}
+.mix13{
+
+    background-color: #e5ecfc;
+}
+.mix15{
+    font-size: 10px;
+}
+
+.mix16{
+    font-size: 15px;
+}
+.mix17{
+
+    font-weight: 500;
+}
+.mix18{
+
+    font-size: smaller;
+    
+}
+
+.mix19{
+
+    
+        font-family: 'Billabong';
+        font-style: normal;
+        font-weight: normal;
+        src: local('Billabong'), url('Billabong.woff') format('woff');
+        
+}
